@@ -4,7 +4,7 @@ I have a strong interest in Programming, Artificial Intelligence (AI), and Cyber
 
 I am currently pursuing a degree in Computer Science, where I continuously seek to expand my knowledge and skill set.
 
-I am open to collaborating on projects focused on developing intelligent software applications aimed at enhancing productivity and ensuring digital security. My interests include building AI-powered tools, exploring the use of machine learning and natural language processing, and designing resilient cybersecurity solutions.
+I am open to collaborating on projects focused on developing intelligent software applications aimed at enhancing productivity and ensuring digital security. My interests include building AI-powered tools, exploring the use of machine learning and natural language processing.
 
 Let’s connect:
 	•	Email: Ghala.alfawzan1@gmail.com
