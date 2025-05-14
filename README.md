@@ -1,6 +1,6 @@
 Hello, I’m Ghala Alfawzan.
 
-I have a strong interest in Programming, Artificial Intelligence (AI), and Cybersecurity. I’m particularly fascinated by innovations in software automation, intelligent systems, and digital security.
+I have a strong interest in Programming, Artificial Intelligence (AI). I’m particularly fascinated by innovations in software automation, intelligent systems, and digital security.
 
 I am currently pursuing a degree in Computer Science, where I continuously seek to expand my knowledge and skill set.
 
