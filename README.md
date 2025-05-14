@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @GhalaAlfawzan
-- 👀 I'm interested in Programming, AI, Cybersecurity. Advancements in these areas like software automation, intelligent systems, and digital security are fascinating. 
-- 🌱 I’m currently studying general Computer Science.
-- 💞️ I’m looking to collaborate on developing intelligent software applications that can enhance productivity and security. Like programming new AI-powered tools or features to streamline workflows Exploring applications of machine learning and natural language processing. Designing robust cybersecurity solutions to protect digital systems and data
-- 📫 How to reach me Email: Ghala.alfawzan1@gmail.com LinkedIn:https://www.linkedin.com/in/ghala-alfawzan-319758277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+Hello, I’m Ghala Alfawzan.
+
+I have a strong interest in Programming, Artificial Intelligence (AI), and Cybersecurity. I’m particularly fascinated by innovations in software automation, intelligent systems, and digital security.
+
+I am currently pursuing a degree in Computer Science, where I continuously seek to expand my knowledge and skill set.
+
+I am open to collaborating on projects focused on developing intelligent software applications aimed at enhancing productivity and ensuring digital security. My interests include building AI-powered tools, exploring the use of machine learning and natural language processing, and designing resilient cybersecurity solutions.
+
+Let’s connect:
+	•	Email: Ghala.alfawzan1@gmail.com
+	•	LinkedIn: LinkedIn.com/in/Ghala-Alfawzan
 
 
 <!---
